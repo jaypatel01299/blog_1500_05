@@ -10,7 +10,7 @@ p {
 
 img {
     width: 550px;
-    height: 450px;
+    height: 300px;
     margin-left: 450px;
 }
 
@@ -20,5 +20,5 @@ a:hover {
 
   h2 {
     text-align: center;
-    color: rgb(215, 104, 255);
+    color: rgb(28, 100, 255);
   }
