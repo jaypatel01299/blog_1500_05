@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    text-transform: capitalize;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 550px;
+    height: 300px;
+    margin-left: 450px;
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+  }
+
+  h2 {
+    text-align: center;
+    color: rgb(60, 49, 111);
+    text-transform: uppercase;
+  }
+
+  .pp {
+    padding-bottom: 40px;
+  }
