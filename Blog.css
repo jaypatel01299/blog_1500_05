@@ -45,3 +45,8 @@ a:hover {
     color: rgb(28, 100, 255);
 >>>>>>> 2c8406479dff91f6663220b5d592d9c10e82897c:Blog_02.css
   }
+
+.robots {
+    font-size: 23px;
+    color: rgb(255, 125, 125);
+}
