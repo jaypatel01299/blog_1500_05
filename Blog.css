@@ -1,0 +1,47 @@
+
+
+p {
+    text-align: center;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 550px;
+    height: 300px;
+    margin-left: 450px;
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+  }
+
+  h1 {
+    text-align: center;
+    color: rgb(185, 111, 254);
+  }
+
+.h11 {
+    text-align: center;
+<<<<<<< HEAD:Blog_01.css
+    color: rgb(215, 104, 255);
+  }
+
+
+.h12 {
+    text-align: center;
+    color: rgb(28, 100, 255);
+  }
+
+  .h13 {
+    text-align: center;
+    color: rgb(60, 49, 111);
+    text-transform: uppercase;
+  }
+
+  h2 {
+    text-align: center;
+=======
+    color: rgb(28, 100, 255);
+>>>>>>> 2c8406479dff91f6663220b5d592d9c10e82897c:Blog_02.css
+  }
